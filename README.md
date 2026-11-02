@@ -48,13 +48,13 @@ Depending on your system, you may need to use `python3 --version`.
 3. Run the Python file:
 
    ```bash
-   python main.py
+   USSD.py
    ```
 
    If your system uses `python3`, run:
 
    ```bash
-   python3 main.py
+   python3 USSD.py
    ```
 
 ## How It Works
@@ -100,7 +100,7 @@ This project provides practice with:
 
 ## Current Limitations
 
-- Only the Glo data-plan purchase flow is implemented.
+- Only the Glo data plan purchase flow is implemented.
 - MTN and Airtel are displayed as network options but are not yet supported.
 - Voice plans, tariff-plan details, and data gifting are placeholders.
 - Only Daily, Weekly, and Monthly plan categories are implemented.
@@ -126,7 +126,7 @@ This project was built as a practical exercise in Python programming, with a foc
 
 **Victor**
 
-Aspiring Data Analyst | Python Learner
+Data Analyst | Python developer
 
 ---
 
